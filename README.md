@@ -33,8 +33,8 @@ Before you can get started, make sure you have the following software installed 
 1. Clone the repository and navigate to the repository:
 
 ```bash
-git clone 
-cd
+git clone https://github.com/Pormons/Task.git 
+cd Task
 ```
 2. Inside the repository open 2 command prompts, 1 for the Vue.js and the other is for the Laravel Project:
 
